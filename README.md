@@ -9,7 +9,9 @@ This is a pre-work for the Swift class by Codepath. Tipster allows you to enter 
 **Which required and optional stories have you completed?**
 - [x] Required: Tip Calculator application
 - [x] Optional: Animating View Properties
-- [] Optional: Adding Image Assets
+- [ ] Optional: Adding Image Assets
+
 
 **GIF walkthrough**
+
 ![Walkthrough](/tipster.gif)
